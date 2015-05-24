@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scheme>
+  <timer id="0">
+    <position>
+      <left>2</left>
+      <top>1</top>
+    </position>
+    <width>600</width>
+    <height>400</height>
+    <topmost>false</topmost>
+    <playsound>true</playsound>
+    <showintaskbar>false</showintaskbar>
+    <bind>-1</bind>
+  </timer>
+</scheme>

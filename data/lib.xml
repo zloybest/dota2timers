@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<timers version="1.0" patch="6.84c">
+	<timer title="Roshan" image="Roshan_Portrait.png">
+		<image>roshan.jpg</image>
+		<level value="1">
+			<steps>
+				<step>
+					<title>Aegis of the Immortal</title>
+					<time>300</time>
+				</step>
+				<step>
+					<title>Min respawn time</title>
+					<time>480</time>
+				</step>
+				<step>
+					<title>Max respawn time</title>
+					<time>660</time>
+				</step>
+			</steps>
+		</level>
+	</timer>
+	<timer title="Observer Ward" image="Observer_Ward_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Duration</title>
+				<time>420</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Sentry Ward" image="Sentry_Ward_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Duration</title>
+				<time>240</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Buyback" image="64px-Greevil's_Greed_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>420</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Black King Bar" image="Black_King_Bar_icon.png">
+		<level value="Duration: 10">
+			<step>
+				<title>Duration</title>
+				<time>10</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>80</time>
+			</step>
+		</level>
+		<level value="Duration: 9">
+			<step>
+				<title>Duration</title>
+				<time>9</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>75</time>
+			</step>
+		</level>
+		<level value="Duration: 8">
+			<step>
+				<title>Duration</title>
+				<time>8</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>70</time>
+			</step>
+		</level>
+		<level value="Duration: 7">
+			<step>
+				<title>Duration</title>
+				<time>7</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>65</time>
+			</step>
+		</level>
+		<level value="Duration: 6">
+			<step>
+				<title>Duration</title>
+				<time>6</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>60</time>
+			</step>
+		</level>
+		<level value="Duration: 5">
+			<step>
+				<title>Duration</title>
+				<time>5</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>55</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Enigma: Blackhole" image="Black_Hole_icon.png">
+		<level value="1">
+			<steps>
+				<step>
+					<title>Cooldown</title>
+					<time>200</time>
+				</step>
+			</steps>
+		</level>
+		<level value="2">
+			<steps>
+				<step>
+					<title>Cooldown</title>
+					<time>190</time>
+				</step>
+			</steps>
+		</level>
+		<level value="3">
+			<steps>
+				<step>
+					<title>Cooldown</title>
+					<time>180</time>
+				</step>
+			</steps>
+		</level>
+	</timer>
+	<timer title="Lina: Laguna Blade"	image="Laguna_Blade_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>70</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>60</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>50</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Quin of Pain: Sonic Wave" image="Sonic_Wave_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>135</time>
+			</step>
+		</level>
+
+		<level value="(all) Aghanim's Scepter">
+			<step>
+				<title>Cooldown</title>
+				<time>40</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Alchemist: Chemical Rage" image="Chemical_Rage_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>45</time>
+			</step>
+			<step>
+				<title>Duration</title>
+				<time>25</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Eath Shaker: Echo Slam" image="Echo_Slam_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>150</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>130</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>110</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Axe: Culling Blade" image="Culling_Blade_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>75</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>65</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>55</time>
+			</step>
+		</level>
+		<level value="Aghanim's Scepter">
+			<step>
+				<title>Cooldown</title>
+				<time>6</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Sven: God's Strength" image="God's_Strength_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Duration</title>
+				<time>25</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>80</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Pudge: Dismember" image="Dismember_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>30</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Sand King: Epicenter" image="Epicenter_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>140</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>120</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>100</time>
+			</step>
+		</level>
+		<level value="1 (Aghanim's Scepter)">
+			<step>
+				<title>Cooldown</title>
+				<time>120</time>
+			</step>
+		</level>
+		<level value="2 (Aghanim's Scepter)">
+			<step>
+				<title>Cooldown</title>
+				<time>100</time>
+			</step>
+		</level>
+		<level value="3 (Aghanim's Scepter)">
+			<step>
+				<title>Cooldown</title>
+				<time>80</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Kunkka: Ghostship" image="Ghostship_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>60</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>50</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>40</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Slardar: Amplify Damage" image="Amplify_Damage_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>5</time>
+			</step>
+			<step>
+				<title>Duration</title>
+				<time>25</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Beastmaster: Primal Roar" image="Primal_Roar_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>80</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>75</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>70</time>
+			</step>
+		</level>
+		<level value="(all) Aghanim's Scepter">
+			<step>
+				<title>Cooldown</title>
+				<time>45</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Tidehunter: Ravage" image="Ravage_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>150</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Dragon Knight: Elder Dragon Form" image="Elder_Dragon_Form_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Duration</title>
+				<time>60</time>
+			</step>
+			<step>
+				<title>Cooldown</title>
+				<time>115</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Wraith King: Reincarnation" image="Reincarnation_(Wraith)_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>260</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>160</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>60</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Clockwerk: Hookshot" image="Hookshot_icon.png">
+		<level value="1">
+			<step>
+				<title>Cooldown</title>
+				<time>70</time>
+			</step>
+		</level>
+		<level value="2">
+			<step>
+				<title>Cooldown</title>
+				<time>55</time>
+			</step>
+		</level>
+		<level value="3">
+			<step>
+				<title>Cooldown</title>
+				<time>40</time>
+			</step>
+		</level>
+		<level value="(all) Aghanim's Scepter">
+			<step>
+				<title>Cooldown</title>
+				<time>12</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Lifestealer: Infest" image="Infest_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>100</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Lifestealer: Assimilate" image="Assimilate_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>50</time>
+			</step>
+		</level>
+	</timer>
+	<timer title="Omniknight: Guardian Angel" image="Guardian_Angel_icon.png">
+		<level value="(all)">
+			<step>
+				<title>Cooldown</title>
+				<time>150</time>
+			</step>
+		</level>
+	</timer>
+</timers>
